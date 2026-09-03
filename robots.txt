@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haniyportfolio.vercel.app/sitemap.xml
